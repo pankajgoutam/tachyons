@@ -1,7 +1,7 @@
 {
   "name": "tachyons",
   "version": "4.12.0",
-  "description": "Functional CSS for humans",
+  "description": "Functional CSS For humans",
   "author": "mrmrs",
   "style": "css/tachyons.min.css",
   "main": "css/tachyons.css",
@@ -11,14 +11,14 @@
   ],
   "repository": "tachyons-css/tachyons",
   "keywords": [
-    "css",
-    "oocss",
-    "postcss",
-    "functional css",
-    "design",
-    "responsive",
-    "performance"
-  ],
+            "css",
+            "oocss",
+            "postcss",
+            "functional css",
+            "design",
+            "responsive",
+            "performance"
+            ],
   "license": "MIT",
   "devDependencies": {
     "copy-files": "^0.1.0",
@@ -29,14 +29,14 @@
     "watch": "^1.0.2"
   },
   "contributors": [
-    {
-      "name": "adam morse",
-      "email": "hi@mrmrs.cc"
-    },
-    {
-      "name": "john otander",
-      "url": "http://johnotander.com"
-    }
+            {
+              "name": "adam morse",
+              "email": "hi@mrmrs.cc"
+            },
+            {
+              "name": "john mare",
+              "url": "http://johnomare.com"
+            }
   ],
   "scripts": {
     "start": "npm run build:watch",
@@ -47,3 +47,5 @@
     "build:watch": "watch \"npm run build\" ./src/"
   }
 }
+
+// end
